@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://myun-xc-sit/sxapi/uploads/365b7654-4099-4c4e-b7cd-5251e450dbae.png</string>
+                        <string>https://myun-xc-sit.cpic.com.cn/sxapi/uploads/cpic/365b7654-4099-4c4e-b7cd-5251e450dbae.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://myun-xc-sit/sxapi/uploads/365b7654-4099-4c4e-b7cd-5251e450dbae.png</string>
+                        <string>https://myun-xc-sit.cpic.com.cn/sxapi/uploads/cpic/365b7654-4099-4c4e-b7cd-5251e450dbae.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -41,7 +41,7 @@
                     <key>subtitle</key>
                     <string></string>
                     <key>title</key>
-                    <string>test-iOS</string>
+                    <string>神行太保-iOS</string>
                 </dict>
             </dict>
         </array>
